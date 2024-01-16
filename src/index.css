@@ -43,3 +43,10 @@ code {
 .current-track {
   width: 80%;
 }
+
+.text {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  margin: 20px 0;
+}
