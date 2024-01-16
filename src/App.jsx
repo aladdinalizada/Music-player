@@ -1,8 +1,12 @@
+import PlayerControls from "./components/PlayerControls";
+import TrackList from "./components/TrackList";
+
 function App() {
   return (
     <>
       <div>
-        <h1>React App</h1>
+        <TrackList />
+        <PlayerControls />
       </div>
     </>
   );
